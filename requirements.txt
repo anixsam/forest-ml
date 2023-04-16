@@ -1,0 +1,7 @@
+torch
+pandas
+opencv-python
+yolov5
+flask
+gunicorn
+ultralytics
